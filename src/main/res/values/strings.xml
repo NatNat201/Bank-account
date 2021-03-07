@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bank Accounts</string>
+    <string name="instructions">
+Place your fingertip on the Home button to verify your identity
+</string>
+    <string name="helloooooo">Helloooooo</string>
+    <string name="login">Login</string>
+    <string name="iban">IBAN :</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="account_name">Account Name :</string>
+</resources>
