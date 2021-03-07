@@ -3,7 +3,7 @@
 This application allows its user to consult online their bank accounts and see them offline after a first launch.
 
 We use a secured login method by checking the user with their digits. The application require the use of the phone biometrics systems and validate the login if the fingerprints match the ones already saved on the phone. The user can then see their bank accounts.
-![Login page](https://user-images.githubusercontent.com/62999186/110248802-2bef4600-7f73-11eb-801f-36c0a9d185cc.jpg=250x100)
+![Login page](https://user-images.githubusercontent.com/62999186/110248802-2bef4600-7f73-11eb-801f-36c0a9d185cc.jpg | width = 100)
 
 
 The application checks the fingerprint a few times and in case the tester's ones don't match, the application will forbid the user from trying too many times and will ask them to try again later. One can't use the button "see accounts" if the validation didn't work first.
